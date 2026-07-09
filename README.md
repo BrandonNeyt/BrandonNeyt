@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Brandon Neyt 👋
 
-<!--
-**BrandonNeyt/BrandonNeyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contracts Manager | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I enjoy solving business problems through automation and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- JavaScript
+- Python
+- Git
+
+## Current Projects
+
+- Payroll Automation System
+- Expense Tracker
+- Portfolio Website
+
+## Technologies
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Excel
+
+## Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/brandon-neyt-83298321b/
+Email: brandonneyt53@gmail.com
