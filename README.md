@@ -12,8 +12,7 @@ I enjoy solving business problems through automation and software.
 
 ## Current Projects
 
-- Payroll Automation System
-- Expense Tracker
+- Excel file reader
 - Portfolio Website
 
 ## Technologies
